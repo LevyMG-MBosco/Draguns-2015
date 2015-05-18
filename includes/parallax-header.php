@@ -1,3 +1,5 @@
+<!-- These parallax includes are used by the index page, since the parallax functionality there specifically
+changes the way the markup needs to be formed -->
 <!DOCTYPE html>
 <!-- For referencing current page -->
 <?php $page = basename($_SERVER['PHP_SELF']); ?>
@@ -28,7 +30,7 @@
   <div id="page-content">
     <!-- Mobile nav implementation -->
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="slide-nav">
-      <div class="header container">
+      <div class="container">
         <div class="navbar-header">
           <a class="navbar-toggle">
             <span class="sr-only">Toggle navigation</span>
@@ -58,46 +60,3 @@
     </div>
 
     <div class="clearfix"></div>
-
-    <div class="header container">
-      <div class="row">
-        <div class="col-xs-12 col-sm-6">
-          <img src="assets/imgs/logo.png" class="img-responsive" />
-        </div>
-        <div class="col-xs-12 col-sm-2">
-        </div>
-        <div class="header col-xs-12 col-sm-4">
-          <div class="time">
-            <p class="bold green">North Pittsburgh/Wexford/Cranberry</p>
-            <p><span class="bold">412.635.8441</span> <span class="green">></span> Open Today &middot; 7:30am - 6:00pm</p>
-            <br />
-            <p class="bold green">North Hills/Pittsburgh</p>
-            <p><span class="bold">412.939.3675</span> <span class="green">></span> Open Today &middot; 7:30am - 6:00pm</p>
-          </div>
-          <div class="row">
-            <div class="colx-xs-4">
-            </div>
-            <div class="left-utility col-xs-2">
-              <ul>
-                <li><a href="gallery.php">GALLERY</a></li>
-              </ul>
-            </div>
-            <div class="right-utility col-xs-6">
-              <ul>
-                <li><a href="about.php">ABOUT US</a></li><br />
-                <li><a href="contact.php">CONTACT US</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="nav-wrap">
-      <ul class="col-xs-12 navigation">
-          <li><a href="index.php">Home</a></li>
-          <li><a href="walls.php">Paver & Wall Systems</a></li>
-          <li><a href="mulch.php">Soil, Mulch & Firewood</a></li>
-          <li><a href="stone.php">Natural Stone & Gravel</a></li>
-          <li><a href="accessories.php">Rental Tools & Accessories</a></li>
-      </ul>
-    </div>

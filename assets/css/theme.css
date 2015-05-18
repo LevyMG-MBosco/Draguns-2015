@@ -1,0 +1,308 @@
+html{
+  font-weight: 300;
+}
+
+a{
+  cursor: pointer;
+}
+
+/* Font Helpers */
+.green{
+  color: #7b894e;
+}
+
+.blue{
+  color: #304b5d;
+}
+
+.bold{
+  font-weight: 600;
+}
+
+.italic{
+  font-style: italic;
+}
+
+/* Header styles */
+.nav-wrap{
+  width: 100%;
+  background-color: #e5eaee;
+}
+
+.nav-wrap > .navigation{
+  width: 1170px;
+  margin: 0 auto;
+  float: none;
+}
+
+.time{
+  padding: 25px 0px;
+}
+
+.header ul{
+  display: table;
+}
+
+.header li{
+  display: table-cell;
+}
+
+.header p{
+  margin: 0px;
+  font-size: 12px;
+}
+
+.right-utility li{
+  float: left;
+  border-left: 3px solid #7b894e;
+  padding-left: 7px;
+}
+
+.left-utility ul{
+  padding-top: 8px;
+}
+
+.left-utility li{
+  float: right;
+}
+
+/* Frontpage styles */
+.midpage-float{
+  background-color: rgba(255,255,255,0.82);
+  padding: 5px;
+}
+
+.midpage-float h1{
+  background-color: #0A2337;
+  color: #fff;
+  font-weight: 300;
+  font-size: 26px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.midpage-float p{
+  font-style: italic;
+  padding: 5px 15px 25px;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.midsection{
+  background-color: #eeefe6;
+  border-top: 20px solid #7b894e;
+  padding-bottom: 30px;
+  margin-bottom: 2px;
+  border-bottom: 3px solid #7b894e;
+}
+
+.midsection h1{
+  font-size: 36px;
+}
+
+.midsection p{
+  font-size: 26px;
+}
+
+.interior p{
+  font-size: 18px !important;
+}
+
+.interior-gallery-content > div{
+  height: 170px;
+  display: table-cell;
+}
+
+#hero-statement{
+  text-align: center;
+  margin-bottom: 60px;
+  background-color: rgba(10, 35, 55, 0.3);
+}
+
+#background-parallax{
+  background-image: url("../imgs/background.jpg");
+}
+
+/* Navigation */
+.navigation{
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	display: table;
+  background-color: #e5eaee;
+}
+
+.navigation li{
+  float: left;
+  display: table-cell;
+  margin-left: 0px;
+  font-size: 22px;
+  font-weight: 300;
+  padding: 10px 15px;
+}
+
+.navigation li a{
+  color: #000;
+}
+
+.navigation li a:hover{
+  text-decoration: none;
+}
+
+.navigation li.currentnav{
+	background-color: #9c1523;
+}
+
+/* Parallax stylings */
+.parallax {
+  -webkit-perspective: 1px;
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.parallax-layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.parallax-group {
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.parallax-layer-base {
+  transform: translateZ(0);
+}
+
+.parallax-layer-back {
+  height: 100vh;
+  background: url(../imgs/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* End Parallax */
+
+/* Interior Stylings */
+.interior h1{
+  background-color: #0A2337;
+  color: #fff;
+  font-weight: 300;
+  font-size: 26px;
+  padding: 5px 10px;
+  width: 50%;
+  margin-bottom: 0px;
+}
+
+.interior-content{
+  background-color: rgba(255,255,255,0.82);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.interior-gallery-content{
+  background-color: rgba(255,255,255,0.82);
+  padding: 10px;
+  margin-bottom: 20px;
+  display: table;
+  width: 100%;
+}
+
+.interior h3{
+  font-size: 36px;
+}
+
+.interior .midsection p{
+  font-size: 18px;
+}
+
+.interior-content p{
+  font-size: 20px;
+}
+
+.calculator button{
+  margin: 20px 10px 0px;
+  width: 120px;
+}
+/* End Interior Stylings */
+
+/* Footer Styling */
+.footer{
+  color: #fff;
+  font-weight: 300;
+  background-color: #18384b;
+  padding-bottom: 30px;
+}
+
+.footer h1{
+  font-size: 18px;
+}
+
+.footer p{
+  margin: 0px;
+}
+
+.footer-left{
+  border-right: 1px solid #fff;
+  margin-top: 15px;
+}
+
+.footer-mid{
+  border-right: 1px solid #fff;
+  margin-top: 15px;
+}
+
+.footer-right{
+  margin-top: 15px;
+}
+
+.footer-right h1{
+  margin-bottom: 0px;
+}
+
+.footer-nav{
+  display: table;
+  margin-top: 20px;
+}
+
+.footer-nav li{
+  display: table-cell;
+  float: left;
+}
+
+.footer-nav li a{
+  color: #fff;
+}
+
+.footer-nav li a:hover{
+  text-decoration: none;
+}
+
+
+/* Media Queries */
+
+/* Mobile Styles */
+@media (max-width: 767px){
+  .footer-left{
+    border: none;
+  }
+  .footer-mid{
+    border: none;
+  }
+}
+/* Portrait Tablet Styles */
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+/* Tablet styles landscape */
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
