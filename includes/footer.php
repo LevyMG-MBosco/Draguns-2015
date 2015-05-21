@@ -27,10 +27,10 @@
       </div>
       <div class="footer-right col-xs-12 col-sm-4">
         <h1>North Pittsburgh/Wexford/Cranberry</h1>
-        <p>412.635.8441 > Open Today &middot; 7:30am - 6:00pm</p>
+        <p>412.635.8441 > Open Today &middot; <?php echo $north; ?></p>
 
         <h1>North Hills/Pittsburgh</h1>
-        <p>412.939.3675 > Open Today &middot; 7:30am - 6:00pm</p><br />
+        <p>412.939.3675 > Open Today &middot; <?php echo $pittsburgh; ?></p><br />
         <div class="facebook">
           <p>Follow us on Facebook</p><img src="" />
         </div>

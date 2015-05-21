@@ -4,14 +4,19 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Pavers & Walls Systems</h1>
-        <div class="interior-content">
-        <p>A "hardscape" such as pavers or wall systems — with a vast array of textures, colors and styles —
-          provides function and a lifetime of beauty to the toughest of landscaping challenges. Dragun's Landscape
-          Supply has the lowest prices, widest inventory, and largest displays in western Pennsylvania; and a wide
-          selection of hardscape tools for rent and sale to get the job done. Bring in your measurements and
-          photos for product and design assistance</p>
-          <p>See our <a href="accessories.php">accessories</a> for pavers & wall systems.</p>
+        <h1>Beauty, Durability and Ease of Installation</h1>
+        <div class="interior-content col-xs-12 col-sm-9">
+
+            <p>
+              Interlocking pavers or wall systems — with a vast array of textures, colors, options and styles — provides function and a lifetime of beauty to patios, walkways, walls, and driveways. Their precise dimensions make them the ideal product for the contractor or DIYer.  Unlike concrete that shifts and cracks, interlocking systems offer the most worry-free and durable choice for all of your hardscape needs. Dragun's Landscape Supply has the lowest prices, widest inventory, and largest displays in western Pennsylvania; and a wide selection of hardscape tools for rent and sale to get the job done. Bring in your measurements and photos for product and design assistance.
+            </p>
+            <p>See our <a href="accessories.php">accessories</a> for pavers & wall systems.</p>
+
+
+        </div>
+
+        <div class="interior-content col-xs-12 col-sm-3">
+          <img class="img-responsive" src="http://placehold.it/250x150" />
         </div>
       </div>
     </div>
@@ -21,7 +26,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-4">
-        <img src="http://placehold.it/350x150" />
+        <img class="img-responsive" src="http://placehold.it/350x150" />
         <h3 class="blue">Techo-bloc Walls and Pavers</h3>
         <p>Combine old-world craftsmanship with
           modern innovation in this family of products.</p>
@@ -30,7 +35,7 @@
         <a>View Techo-Bloc Products</a>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <img src="http://placehold.it/350x150" />
+        <img class="img-responsive" src="http://placehold.it/350x150" />
         <h3 class="blue">Unilock Walls and Pavers</h3>
         <p>Enhanced color process, strength,
           endless design possibilities, and a lifetime
@@ -40,7 +45,7 @@
         <a>View Unilock Products</a>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <img src="http://placehold.it/350x150" />
+        <img class="img-responsive" src="http://placehold.it/350x150" />
         <h3 class="blue">Versalok Retaining Walls / Omni-stone Pavers</h3>
         <p>Omni Stone interlocking pavers bring rustic
           charm in five sizes that combine beautifully

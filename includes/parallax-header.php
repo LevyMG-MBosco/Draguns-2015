@@ -2,7 +2,7 @@
 changes the way the markup needs to be formed -->
 <!DOCTYPE html>
 <!-- For referencing current page -->
-<?php $page = basename($_SERVER['PHP_SELF']); ?>
+<?php $page = basename($_SERVER['PHP_SELF']); include_once('assets/lib/hours.php');?>
 <!-- /// -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -44,13 +44,14 @@ changes the way the markup needs to be formed -->
         <div id="slidemenu">
           <ul class="nav navbar-nav">
             <li <?php if ($page == "index.php"){ echo "class='active'"; } ?>><a href="index.php">HOME</a></li>
-            <li <?php if ($page == "industries.php"){ echo "class='active'"; } ?>><a href="industries.php">INDUSTRIES</a></li>
-            <li <?php if ($page == "grades.php"){ echo "class='active'"; } ?>><a href="grades.php">GRADES</a></li>
-            <li <?php if ($page == "quality.php"){ echo "class='active'"; } ?>><a href="quality.php">QUALITY</a></li>
-            <li <?php if ($page == "library.php"){ echo "class='active'"; } ?>><a href="library.php">LIBRARY</a></li>
-            <li <?php if ($page == "toolbox.php"){ echo "class='active'"; } ?>><a href="toolbox.php">TOOLBOX</a></li>
+            <li <?php if ($page == "walls.php"){ echo "class='active'"; } ?>><a href="walls.php">PAVER & WALL SYSTEMS</a></li>
+            <li <?php if ($page == "mulch.php"){ echo "class='active'"; } ?>><a href="mulch.php">SOIL, MULCH & FIREWOOD</a></li>
+            <li <?php if ($page == "stone.php"){ echo "class='active'"; } ?>><a href="stone.php">NATURAL STONE & GRAVEL</a></li>
+            <li <?php if ($page == "accessories.php"){ echo "class='active'"; } ?>><a href="accessories.php">RENTAL TOOLS & ACCESSORIES</a></li>
+
           </ul>
           <ul class="nav navbar-nav">
+            <li <?php if ($page == "landscapes.php"){ echo "class='active'"; } ?>><a href="landscapes.php">LANDSCAPES</a></li>
             <li <?php if ($page == "gallery.php"){ echo "class='active'"; } ?>><a href="gallery.php">GALLERY</a></li>
             <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT US</a></li>
             <li <?php if ($page == "contact.php"){ echo "class='active'"; } ?>><a href="contact.php">CONTACT US</a></li>

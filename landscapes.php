@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>See the Possibilities</h1>
+        <h1>Product Gallery</h1>
         <div class="interior-content">
           <p>Gallery thumbnail pager goes here</p>
           <ul class="bxslider">
@@ -26,17 +26,17 @@
           <h2></h2>
           <!-- Gallery functionality here -->
           <div>
-            <a href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
+            <a class="col-sm-4" href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
               <img class="img-responsive" src="http://placehold.it/250x150" />
             </a>
           </div>
           <div>
-            <a href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
+            <a class="col-sm-4" href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
               <img class="img-responsive" src="http://placehold.it/250x150" />
             </a>
           </div>
           <div>
-            <a href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
+            <a class="col-sm-4" href="http://placehold.it/450x250" data-toggle="lightbox" data-gallery="multiimages" data-title="Testing Grounds">
               <img class="img-responsive" src="http://placehold.it/250x150" />
             </a>
           </div>

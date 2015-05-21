@@ -4,18 +4,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Natural Stone & Gravel</h1>
-        <div class="interior-content">
-        <p>There are many creative ways to add natural stone and gravel into your landscaping environment and many materials from which to choose. Create a pathway, build an attractive edge — natural stone and gravel creates color, texture and interest to your landscaping plans. Dragun's Landscape Supply offers ideas and design assistance on ways to incorporate natural stone and gravel. Our products are sold by the tractor bucket and at least two buckets are required for local delivery.</p>
+        <h1>Add Enduring Elements to Your Landscape</h1>
+        <div class="interior-content col-xs-12 col-sm-9">
+        <p>
+          There are many creative ways to add natural stone and gravel into your landscaping environment and many materials from which to choose. Create a pathway, build an attractive edge — natural stone and gravel creates color, texture and interest to your landscaping plans. Dragun's Landscape Supply offers ideas and design assistance on ways to incorporate natural stone and gravel. Our products are sold by the tractor bucket and at least two buckets are required for local delivery.
+        </p>
           <p>See our <a href="accessories.php">accessories</a> for natural stone & gravel.</p>
         </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12">
-        <div class="interior-content">
-          <h2></h2>
-          <!-- Gallery functionality here -->
+        <div class="interior-content col-xs-12 col-sm-3">
+          <img class="img-responsive" src="http://placehold.it/250x150" />
         </div>
       </div>
     </div>
@@ -24,33 +21,130 @@
 <div class="interior midsection">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 col-sm-4">
-        <h3 class="blue">Techo-bloc Walls and Pavers</h3>
-        <p>Combine old-world craftsmanship with
-          modern innovation in this family of products.</p>
-        <p>Color Thru and Thru, De-Icing Salt Resistant,
-          Strength & Durability</p>
-        <a>View Techo-Bloc Products</a>
+      <div class="col-xs-12 col-sm-6">
+
+
+        <div class="mulch-chart panel panel-default">
+          <div class="panel-heading">
+            <h3 class="blue">Gravel Color Chart</h3>
+          </div>
+          <div class="panel-body">
+
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/2-river-rock.jpg" />
+                <p>#2 River Rock</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/3-river-rock.jpg" />
+                <p>#3 River Rock</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/4-river-rock.jpg" />
+                <p>#4 River Rock</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/2a-limestone.jpg" />
+                <p>2A Limestone</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/2b-limestone.jpg" />
+                <p>2B Limestone</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/pea-gravel.jpg" />
+                <p>Pea Gravel</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/limestone-sand.jpg" />
+                <p>Limestone Sand</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/mason-sand.jpg" />
+                <p>Mason Sand</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/3b-limestone.jpg" />
+                <p>3B Limestone</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/highway-sand.jpg" />
+                <p>Highway Sand</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/1b-limestone.jpg" />
+                <p>1B Limestone</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
-      <div class="col-xs-12 col-sm-4">
-        <h3 class="blue">Unilock Walls and Pavers</h3>
-        <p>Enhanced color process, strength,
-          endless design possibilities, and a lifetime
-          guarantee make this a homeowner's choice.</p>
-        <p>Colorfast Pigments, De-Icing Salt Resistant,
-          Strong & Durable</p>
-        <a>View Unilock Products</a>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-        <h3 class="blue">Versalok Retaining Walls / Omni-stone Pavers</h3>
-        <p>Omni Stone interlocking pavers bring rustic
-          charm in five sizes that combine beautifully
-          into a hand-chosen pattern or stand-alone
-          for a distinctive look.</p>
-        <p>Versa-Lok retaining walls combine stability,
-          durability, cost-effectiveness, endless
-          design options and beauty.</p>
-        <a>View Versalock Products</a>
+      <div class="col-xs-12 col-sm-6">
+
+
+        <h3>Our Natural Stone And Gravel Products Include:</h3>
+        <ul>
+          <li>Pea Gravel & River Rock</li>
+          <li>Limestone & Limestone Sand</li>
+          <li>Landscape Rock & Sand</li>
+          <li>Maryland Flagstone</li>
+          <li>Boulders</li>
+          <li>Black Granite Steps</li>
+          <li>Belgium Block</li>
+          <li>Patterned Flagstone</li>
+          <li>Natural Sandstone Steps</li>
+          <li>Decorative Stone</li>
+          <li>Waterfall Boulders</li>
+        </ul>
+
+
+        <div class="mulch-chart panel panel-default">
+          <div class="panel-heading">
+            <h3 class="blue">Decorative Gravel</h3>
+          </div>
+          <div class="panel-body">
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/3-eastern-seashore.jpg" />
+                <p>#3 Eastern Seashore</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/red-raven.jpg" />
+                <p>Red Raven</p>
+              </div>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/imgs/gravel/delaware-blend.jpg" />
+                <p>Delaware Blend</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
     <div class="row">

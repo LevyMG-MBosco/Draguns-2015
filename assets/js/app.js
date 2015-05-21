@@ -118,6 +118,10 @@ function stoneCalc() {
   });
 }
 
+$(".mobile-backtotop").click(function(){
+  $('html, body').animate({scrollTop: 0}, 750, 'swing');
+});
+
 $(document).on("click", "#reset", function(){
     $("#results").fadeOut("fast", function(){
         $("#versaForm").fadeIn("fast");
@@ -126,3 +130,13 @@ $(document).on("click", "#reset", function(){
     $("#widthg").val("");
     $("#depthg").val("");
 });
+
+try{
+  $(window).scroll(function(){
+    if ($(this).scrollTop()) {
+      $('.mobile-backtotop:hidden').stop(true, true).fadeIn();
+    } else {
+      $('.mobile-backtotop').stop(true, true).fadeOut();
+    }
+  });
+}catch(e){/*lol*/}
