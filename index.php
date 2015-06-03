@@ -22,8 +22,8 @@
           <div class="row hidden-xs visible-sm-* visible-md-* visible-lg-*">
             <div class="left-utility col-xs-3">
               <ul>
-                <li><a href="gallery.php">GALLERY</a></li><br />
-                <li><a href="gallery.php">LANDSCAPES</a></li>
+                <li><a href="news.php">NEWS</a></li><br />
+                <li><a href="landscapes.php">LANDSCAPES</a></li>
               </ul>
             </div>
             <div class="right-utility col-xs-8">
@@ -43,13 +43,15 @@
       <ul class="col-xs-12 navigation">
           <li <?php if ($page == "index.php"){ echo "class='active'"; } ?>><a href="index.php">Home</a></li>
           <li>|</li>
-          <li <?php if ($page == "walls.php"){ echo "class='active'"; } ?>><a href="walls.php">Paver & Wall Systems</a></li>
+          <li <?php if ($page == "walls.php"){ echo "class='active'"; } ?>><a href="walls.php">Pavers, Wall Systems & Veneers</a></li>
           <li>|</li>
           <li <?php if ($page == "mulch.php"){ echo "class='active'"; } ?>><a href="mulch.php">Soil, Mulch & Firewood</a></li>
           <li>|</li>
           <li <?php if ($page == "stone.php"){ echo "class='active'"; } ?>><a href="stone.php">Natural Stone & Gravel</a></li>
           <li>|</li>
           <li <?php if ($page == "accessories.php"){ echo "class='active'"; } ?>><a href="accessories.php">Rental Tools & Accessories</a></li>
+          <li>|</li>
+          <li <?php if ($page == "lightscapes.php"){ echo "class='active'"; } ?>><a href="lightscapes.php">Lightscapes</a></li>
       </ul>
     </div>
   </div>
@@ -101,10 +103,7 @@
           <h2 class="green italic">We Create Beautiful Spaces and Comfortable Places</h2>
           <p>Beautify your yard with our wide range of our landscaping materials. From the finest topsoil, color
           enhanced mulch, and nutrient enriched compost to patio pavers wall systems, Dragun’s has
-          everything you need to complete your landscape projects.</p>
-
-          <h4>GALLERY</h4>
-          <!-- Gallery view -->
+          everything you need to complete your landscape projects. <a href="landscapes.php" class="green italic">View our many attractive landscapes ></a></p>
         </div>
       </div>
     </div>
@@ -140,7 +139,8 @@
             <li><a href="mulch.php">Soil, Mulch & Firewood</a></li><br />
             <li><a href="stone.php">Natural Stone & Gravel</a></li><br />
             <li><a href="accessories.php">Rental Tools & Accessories</a></li><br />
-            <li><a href="gallery.php">Gallery</a></li><br />
+            <li><a href="news.php">News</a></li><br />
+            <li><a href="landscapes.php">Landscapes</a></li><br />
             <li><a href="about.php">About Us</a></li><br />
             <li><a href="contact.php">Contact Us</a></li>
           </ul>
@@ -152,7 +152,8 @@
           <h1>North Hills/Pittsburgh</h1>
           <p>412.939.3675 > Open Today &middot; <?php echo $pittsburgh; ?></p><br />
           <div class="facebook">
-            <p>Follow us on Facebook</p><img src="" />
+            <a href="https://www.facebook.com/Draguns" target="_blank"><img src="assets/imgs/facebook.png" /></a>
+            <a href="https://twitter.com/DragunLandscape" target="_blank"><img src="assets/imgs/twitter.png" /></a>
           </div>
         </div>
       </div>

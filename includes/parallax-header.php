@@ -9,7 +9,7 @@ changes the way the markup needs to be formed -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title></title>
+<title>Dragun's Landscape Supply</title>
 <link rel="shortcut icon" href="assets/imgs/favicon.ico" type="image/x-icon">
 
 <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css" />
@@ -44,15 +44,16 @@ changes the way the markup needs to be formed -->
         <div id="slidemenu">
           <ul class="nav navbar-nav">
             <li <?php if ($page == "index.php"){ echo "class='active'"; } ?>><a href="index.php">HOME</a></li>
-            <li <?php if ($page == "walls.php"){ echo "class='active'"; } ?>><a href="walls.php">PAVER & WALL SYSTEMS</a></li>
+            <li <?php if ($page == "walls.php"){ echo "class='active'"; } ?>><a href="walls.php">PAVERS, WALL SYSTEMS & VENEERS</a></li>
             <li <?php if ($page == "mulch.php"){ echo "class='active'"; } ?>><a href="mulch.php">SOIL, MULCH & FIREWOOD</a></li>
             <li <?php if ($page == "stone.php"){ echo "class='active'"; } ?>><a href="stone.php">NATURAL STONE & GRAVEL</a></li>
             <li <?php if ($page == "accessories.php"){ echo "class='active'"; } ?>><a href="accessories.php">RENTAL TOOLS & ACCESSORIES</a></li>
+            <li <?php if ($page == "lightscapes.php"){ echo "class='active'"; } ?>><a href="lightscapes.php">LIGHTSCAPES</a></li>
 
           </ul>
           <ul class="nav navbar-nav">
             <li <?php if ($page == "landscapes.php"){ echo "class='active'"; } ?>><a href="landscapes.php">LANDSCAPES</a></li>
-            <li <?php if ($page == "gallery.php"){ echo "class='active'"; } ?>><a href="gallery.php">GALLERY</a></li>
+            <li <?php if ($page == "news.php"){ echo "class='active'"; } ?>><a href="news.php">NEWS</a></li>
             <li <?php if ($page == "about.php"){ echo "class='active'"; } ?>><a href="about.php">ABOUT US</a></li>
             <li <?php if ($page == "contact.php"){ echo "class='active'"; } ?>><a href="contact.php">CONTACT US</a></li>
           </ul>

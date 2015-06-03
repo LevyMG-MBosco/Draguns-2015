@@ -58,6 +58,11 @@ $(document).ready(function() {
     });
 });
 
+//Enables the coupon slider
+$(".border-right").click(function(){
+  $('.left').toggle("duration: 400");
+});
+
 //Handles allowing the lightbox plugin to function
 $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
     event.preventDefault();

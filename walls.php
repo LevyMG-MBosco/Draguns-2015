@@ -4,19 +4,19 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Beauty, Durability and Ease of Installation</h1>
-        <div class="interior-content col-xs-12 col-sm-9">
-
-            <p>
-              Interlocking pavers or wall systems — with a vast array of textures, colors, options and styles — provides function and a lifetime of beauty to patios, walkways, walls, and driveways. Their precise dimensions make them the ideal product for the contractor or DIYer.  Unlike concrete that shifts and cracks, interlocking systems offer the most worry-free and durable choice for all of your hardscape needs. Dragun's Landscape Supply has the lowest prices, widest inventory, and largest displays in western Pennsylvania; and a wide selection of hardscape tools for rent and sale to get the job done. Bring in your measurements and photos for product and design assistance.
-            </p>
-            <p>See our <a href="accessories.php">accessories</a> for pavers & wall systems.</p>
-
-
+        <h1 class="green-back">Beauty, Durability and Ease of Installation</h1>
+        <div class="interior-content leftside-alignment col-xs-12 col-sm-8">
+          <p>
+            Interlocking pavers, wall systems and veneers — with a vast array of textures, colors, options and styles — provides function and a lifetime of beauty to patios, walkways, walls, and driveways. Their precise dimensions make them the ideal product for the contractor or DIYer.  Unlike concrete that shifts and cracks, interlocking systems offer the most worry-free and durable choice for all of your hardscape needs. Dragun's Landscape Supply has the lowest prices, widest inventory, and largest displays in western Pennsylvania; and a wide selection of hardscape tools for rent and sale to get the job done. Bring in your measurements and photos for product and design assistance.
+          </p>
+          <a  href="accessories.php" class="accessories-link">See our accessories & tools. <span class="acc-arrow">></span></a>
         </div>
 
-        <div class="interior-content col-xs-12 col-sm-3">
-          <img class="img-responsive" src="http://placehold.it/250x150" />
+        <div class="interior-content col-xs-12 col-sm-4">
+            <img class="img-responsive center-block" src="assets/imgs/walls-quote.png" />
+            <div class="youtube-container">
+              <a href="https://www.youtube.com/embed/EoHKxG6f0CY">Watch Video <img src="assets/imgs/youtube.png" /></a>
+            </div>
         </div>
       </div>
     </div>
@@ -26,40 +26,53 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-4">
-        <img class="img-responsive" src="http://placehold.it/350x150" />
+        <img class="distributors img-responsive" src="assets/imgs/techobloc.jpeg" />
         <h3 class="blue">Techo-bloc Walls and Pavers</h3>
-        <p>Combine old-world craftsmanship with
-          modern innovation in this family of products.</p>
-        <p>Color Thru and Thru, De-Icing Salt Resistant,
-          Strength & Durability</p>
-        <a>View Techo-Bloc Products</a>
+        <p>100% True Full-Bodied Color</p>
+        <p>Combine old-world craftsmanship with modern innovation in this family of products.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/techo-bloc.png" /> Products ></a>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <img class="img-responsive" src="http://placehold.it/350x150" />
+        <img class="distributors img-responsive" src="assets/imgs/unilock.jpeg" />
         <h3 class="blue">Unilock Walls and Pavers</h3>
-        <p>Enhanced color process, strength,
-          endless design possibilities, and a lifetime
-          guarantee make this a homeowner's choice.</p>
-        <p>Colorfast Pigments, De-Icing Salt Resistant,
-          Strong & Durable</p>
-        <a>View Unilock Products</a>
+        <p>Superior Wear Resistance and Color Longevity</p>
+        <p>Enhanced color process, strength, endless design possibilities, and a lifetime guarantee make this a homeowner's choice.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/unilock.png" /> Products ></a>
       </div>
       <div class="col-xs-12 col-sm-4">
-        <img class="img-responsive" src="http://placehold.it/350x150" />
-        <h3 class="blue">Versalok Retaining Walls / Omni-stone Pavers</h3>
-        <p>Omni Stone interlocking pavers bring rustic
-          charm in five sizes that combine beautifully
-          into a hand-chosen pattern or stand-alone
-          for a distinctive look.</p>
-        <p>Versa-Lok retaining walls combine stability,
-          durability, cost-effectiveness, endless
-          design options and beauty.</p>
-        <a>View Versalock Products</a>
+        <img class="distributors img-responsive" src="assets/imgs/versalok.jpeg" />
+        <h3 class="blue">VERSA-LOK Retaining Walls</h3>
+        <p>A High-end Appearance, no High-end Cost</p>
+        <p>VERSA-LOK retaining walls combine stability, durability, cost-effectiveness, endless design options and beauty.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/versa-lok.png" /> Products ></a>
+      </div>
+    </div>
+    <div style="margin-top: 10px;" class="row">
+      <div class="col-xs-12 col-sm-4">
+        <img class="distributors img-responsive" src="assets/imgs/eldorado.jpeg" />
+        <h3 class="blue">Eldorado Stone</h3>
+        <p>Believability is Key </p>
+        <p>Eldorado Stone is known for creating authentic-looking products at attainable prices.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/eldorado-logo.png" /> Products ></a>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <img class="distributors img-responsive" src="assets/imgs/keystone.jpeg" />
+        <h3 class="blue">Keystone Retaining Wall Systems</h3>
+        <p>Design, Performance, Aesthetics </p>
+        <p>Solutions for commercial, industrial, public works and residential applications.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/keystone2.png" /> Products ></a>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <img class="distributors img-responsive" src="assets/imgs/ephenry.jpeg" />
+        <h3 class="blue">EP Henry </h3>
+        <p>Values that Endure</p>
+        <p>Cast Veneer Stone is so close to natural stone in appearance, color, and texture -- the two are virtually indistinguishable.</p>
+        <a class="product-link" href="gallery.php">View <img src="assets/imgs/logos/ephvalues.png" /> Products ></a>
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-3">
-        <a data-toggle="modal" data-target="#calc-modal" >Wall Calculator</a>
+        <a class="calc-link" data-toggle="modal" data-target="#calc-modal" ><img src="assets/imgs/calculator.png" />Wall Calculator</a>
       </div>
     </div>
   </div>

@@ -4,15 +4,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Add Enduring Elements to Your Landscape</h1>
-        <div class="interior-content col-xs-12 col-sm-9">
+        <h1 class="green-back">Add Enduring Elements to Your Landscape</h1>
+        <div class="interior-content leftside-alignment col-xs-12 col-sm-8">
         <p>
           There are many creative ways to add natural stone and gravel into your landscaping environment and many materials from which to choose. Create a pathway, build an attractive edge — natural stone and gravel creates color, texture and interest to your landscaping plans. Dragun's Landscape Supply offers ideas and design assistance on ways to incorporate natural stone and gravel. Our products are sold by the tractor bucket and at least two buckets are required for local delivery.
         </p>
-          <p>See our <a href="accessories.php">accessories</a> for natural stone & gravel.</p>
+        <a  href="accessories.php" class="accessories-link">See our accessories & tools. <span class="acc-arrow">></span></a>
         </div>
-        <div class="interior-content col-xs-12 col-sm-3">
-          <img class="img-responsive" src="http://placehold.it/250x150" />
+        <div class="interior-content col-xs-12 col-sm-4">
+          <img class="img-responsive center-block" src="assets/imgs/gravel-quote.png" />
         </div>
       </div>
     </div>
@@ -149,7 +149,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-3">
-        <a data-toggle="modal" data-target="#calc-modal" >Gravel Calculator</a>
+        <a class="calc-link" data-toggle="modal" data-target="#calc-modal" ><img src="assets/imgs/calculator.png" />Gravel Calculator</a>
       </div>
     </div>
   </div>

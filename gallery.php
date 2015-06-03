@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>See the Possibilities</h1>
+        <h1 class="green-back">Gallery - See the Possibilities</h1>
         <div class="interior-content">
           <p>Gallery thumbnail pager goes here</p>
           <ul class="bxslider">

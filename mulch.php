@@ -4,15 +4,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Tailor Your Softscapes</h1>
-        <div class="interior-content col-xs-12 col-sm-9">
+        <h1 class="green-back">Tailor Your Softscapes</h1>
+        <div class="interior-content leftside-alignment col-xs-12 col-sm-8">
           <p>
             Give your landscaping the foundation it needs to grow and thrive. Your soil is one of the most important factors in successful landscaping, so adding compost, soil mixes, sand, or rock will help them grow and thrive. Using organic mulch not only beautifies and unifies your beds, but can also improve the quality of your soil, protect plants, prevent weeds and reduce the need for water. The friendly pros at Dragun's Landscape Supply can help you choose the types that will best fit your landscape project needs. We also offer several mixes of grass seed (including Penn State mix and drought-resistant mix), fertilizer, landscape fabric, aluminum edging and gardening tools.  We sell firewood year-round (mixed woods that have been seasoned for about six months) by the full cord and face cord.
           </p>
-          <p>See our <a href="accessories.php">accessories</a> for pavers & wall systems.</p>
+          <a  href="accessories.php" class="accessories-link">See our accessories & tools. <span class="acc-arrow">></span></a>
         </div>
-        <div class="interior-content col-xs-12 col-sm-3">
-          <img class="img-responsive" src="http://placehold.it/250x150" />
+        <div class="interior-content col-xs-12 col-sm-4">
+          <img class="img-responsive center-block" src="assets/imgs/mulch-quote.png" />
         </div>
       </div>
     </div>
@@ -128,7 +128,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-3">
-        <a data-toggle="modal" data-target="#calc-modal" >Mulch Calculator</a>
+        <a class="calc-link" data-toggle="modal" data-target="#calc-modal" ><img src="assets/imgs/calculator.png" />Mulch Calculator</a>
       </div>
     </div>
   </div>

@@ -79,7 +79,7 @@ if($_POST) {
 <div class="container">
   <div class="row">
     <div class="col-xs-12">
-      <h1>Beautiful Landscapes Start at the Ground Up</h1>
+      <h1 class="green-back">Contact - Answers to Your Questions</h1>
       <div class="interior-content">
 <form class="form-horizontal" method="post" action="contact.php">
   <div class="form-group">

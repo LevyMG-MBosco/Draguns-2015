@@ -4,11 +4,17 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1>Tools of the Trade</h1>
-        <div class="interior-content">
+        <h1 class="green-back">Tools of the Trade</h1>
+        <div class="interior-content leftside-alignment col-xs-12 col-sm-8">
           <p>
             We all know that having the right tools and accessories make any job easier, whether you’re a landscaper, contractor or homeowner.  Dragun’s Landscape Supply is your one-stop source for great pricing on all the accessories you’ll ever need for your paver and retaining wall projects, plus tool sales and rentals. Call our Wexford/Cranberry/North Pittsburgh store at 412.635.8441 or Pittsburgh/North Hills store at 412.939.3675 for availability and pricing.
           </p>
+        </div>
+        <div class="interior-content col-xs-12 col-sm-4">
+          <img class="img-responsive center-block" src="assets/imgs/accessories-quote.png" />
+          <div class="youtube-container">
+            <a href="https://youtu.be/v2YFNGTwKCI">Watch Video <img src="assets/imgs/youtube.png" /></a>
+          </div>
         </div>
       </div>
     </div>
